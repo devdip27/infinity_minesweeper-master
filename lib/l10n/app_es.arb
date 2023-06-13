@@ -1,0 +1,70 @@
+{
+  "language": "Español",
+  "@language": {
+    "description": "El idioma actual"
+  },
+  "hard": "Difícil",
+  "@hard": {
+    "description": "Dificultad difícil"
+  },
+  "yourRecord": "Tu récord para el modo {modality} es:",
+  "@yourRecord": {
+    "placeholders": {
+      "modality": {
+        "type": "String"
+      }
+    }
+  },
+  "easy": "Fácil",
+  "medium": "Medio",
+  "bombs": "bombas",
+  "statistics": "Estadísticas",
+  "leaderboard": "Tabla de clasificación",
+  "purchase": "Compra",
+  "developBy": "Desarrollado por",
+  "win": "Ganar",
+  "lose": "Perder",
+  "gameStatistics": "Estadísticas del juego",
+  "alreadyProGamer": "Ya eres un jugador profesional, ¡nunca volverás a ver anuncios!",
+  "purchasePageTitle": "Compra",
+  "tutorial1StartGameTitle": "Comenzar juego",
+  "tutorial1StartGameDescr": "Para empezar, haga clic en cualquier celda, se creará un campo de juego que se pueda resolver.",
+  "tutorial2FindBombsTitle": "Encontrar bombas",
+  "tutorial2FindBombsDescr": "Los números indican cuántas bombas hay en las celdas adyacentes. Por ejemplo, el número 3 indica que hay tres bombas alrededor de la celda.",
+  "tutorial3FlagsTitle": "Marcar bombas",
+  "tutorial3FlagsDescr": "Mantenga presionada una celda para insertar una marca que puede ayudarlo a recordar dónde podría estar una bomba.",
+  "tutorial4WinTitle": "Victoria",
+  "tutorial4WinDescr": "Ganas si dejas todas las bombas cubiertas y descubres todas las celdas libres.",
+  "tutorial5WorldRankingTitle": "Clasificación mundial",
+  "tutorial5WorldRankingDescr": "¡Intenta resolver el campo lo más rápido posible para subir en la clasificación mundial que encontrarás en la página principal!",
+  "tutorial6DoubleClickTitle": "Apertura rápida",
+  "tutorial6DoubleClickDescr": "Haz clic en una celda descubierta donde ya hayas colocado todas las marcas alrededor de ella para abrir todas las celdas libres adyacentes de manera rápida.",
+  "next": "Siguiente",
+  "play": "Jugar",
+  "time": "Tiempo",
+  "gamePauseTitle": "Pausa del juego",
+  "gamePauseDescr": "Pulsa fuera para continuar o volver a la página principal.",
+  "youLoseTitle": "¡Perdiste!",
+  "youLoseDesc": "Cuando pierdes, no te pierdas la lección.",
+  "youCompletedGameTitle": "¡Ganaste, felicidades!",
+  "youCompletedGameDescr": "Completa el juego en:",
+  "seconds": "Segundos",
+  "minuts": "Minutos",
+  "hours": "Horas",
+  "home": "Inicio",
+  "loadingOffers": "Cargando ofertas...",
+  "goodPurchase": "¡Compra exitosa!",
+  "badPurchase": "Compra completada con error.",
+  "restorePurchaseDone": "Restauración de compra completada.",
+  "noPlansFound": "¡No se encontraron ofertas!",
+  "loading": "Cargando",
+  "restore": "Restaurar",
+  "timeRecord": "¡Récord de tiempo!",
+  "info_openSourceText": "El código fuente de este juego es de código abierto y puedes encontrarlo en GitHub",
+  "review": "Revisión",
+  "info_reviewText": "Agradeceríamos enormemente una revisión de tu parte para mejorar y crecer.",
+  "contactUs": "Contáctanos",
+  "info_contactUsText": "¿Tienes sugerencias para una nueva característica o quieres informar un error? Escríbenos, estaremos encantados de responder.",
+  "settings": "Configuración",
+  "settings_languageText": "Lenguaje"
+}

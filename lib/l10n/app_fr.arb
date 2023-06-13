@@ -1,0 +1,70 @@
+{
+  "language": "français",
+  "@language": {
+    "description": "La langue actuelle"
+  },
+  "hard": "Difficile",
+  "@hard": {
+    "description": "Difficulté élévée"
+  },
+  "yourRecord": "Votre record pour le mode {modality} est :",
+  "@yourRecord": {
+    "placeholders": {
+      "modality": {
+        "type": "String"
+      }
+    }
+  },
+  "easy": "Facile",
+  "medium": "Moyen",
+  "bombs": "bombes",
+  "statistics": "Statistiques",
+  "leaderboard": "Classement",
+  "purchase": "Acheter",
+  "developBy": "Développé par",
+  "win": "Gagner",
+  "lose": "Perdre",
+  "gameStatistics": "Statistiques de jeu",
+  "alreadyProGamer": "Vous êtes déjà un joueur professionnel, vous ne verrez plus jamais de publicités !",
+  "purchasePageTitle": "Acheter",
+  "tutorial1StartGameTitle": "Démarrer le jeu",
+  "tutorial1StartGameDescr": "Pour commencer, cliquez sur une case. Un champ de jeu réalisable sera créé.",
+  "tutorial2FindBombsTitle": "Trouver les bombes",
+  "tutorial2FindBombsDescr": "Les nombres indiquent le nombre de bombes dans les cases adjacentes. Par exemple, le chiffre 3 indique qu'il y a trois bombes autour de la case.",
+  "tutorial3FlagsTitle": "Signaler les bombes",
+  "tutorial3FlagsDescr": "Appuyez longuement sur une case pour y placer un drapeau, ce qui peut vous aider à vous souvenir où se trouve une bombe.",
+  "tutorial4WinTitle": "Victoire",
+  "tutorial4WinDescr": "Vous gagnez si vous laissez toutes les bombes couvertes et découvrez toutes les cases libres.",
+  "tutorial5WorldRankingTitle": "Classement mondial",
+  "tutorial5WorldRankingDescr": "Essayez de résoudre le champ le plus rapidement possible pour grimper dans le classement mondial que vous trouverez sur la page d'accueil !",
+  "tutorial6DoubleClickTitle": "Ouverture rapide",
+  "tutorial6DoubleClickDescr": "Cliquez sur une case découverte où vous avez déjà placé tous les drapeaux autour de celle-ci pour ouvrir toutes les cases adjacentes !",
+  "next": "Suivant",
+  "play": "Jouer",
+  "time": "Temps",
+  "gamePauseTitle": "Pause du jeu",
+  "gamePauseDescr": "Appuyez à l'extérieur pour continuer ou retournez à la page d'accueil.",
+  "youLoseTitle": "Vous avez perdu !",
+  "youLoseDesc": "Lorsque vous perdez, ne manquez pas la leçon.",
+  "youCompletedGameTitle": "Vous avez gagné, félicitations !",
+  "youCompletedGameDescr": "Vous avez complété le jeu en :",
+  "seconds": "secondes",
+  "minuts": "minutes",
+  "hours": "heures",
+  "home": "Accueil",
+  "loadingOffers": "Chargement des offres...",
+  "goodPurchase": "Achat réussi !",
+  "badPurchase": "Erreur lors de l'achat.",
+  "restorePurchaseDone": "Restauration d'achat terminée.",
+  "noPlansFound": "Aucune offre trouvée !",
+  "loading": "Chargement",
+  "restore": "Restaurer",
+  "timeRecord": "Record de temps !",
+  "info_openSourceText": "Le code source de ce jeu est open source et vous pouvez le trouver sur GitHub.",
+  "review": "Évaluation",
+  "info_reviewText": "Nous apprécierions grandement une évaluation de votre part pour nous aider à nous améliorer et à grandir.",
+  "contactUs": "Contactez-nous",
+  "info_contactUsText": "Avez-vous des suggestions pour une nouvelle fonctionnalité ou souhaitez-vous signaler un bug ? Écrivez-nous, nous serons heureux de vous répondre.",
+  "settings": "Paramètres",
+  "settings_languageText": "Langue"
+}

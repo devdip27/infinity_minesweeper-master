@@ -1,0 +1,70 @@
+{
+  "language": "Deutsch",
+  "@language": {
+    "description": "Die aktuelle Sprache"
+  },
+  "hard": "Schwer",
+  "@hard": {
+    "description": "Schwierigkeitsgrad Schwer"
+  },
+  "yourRecord": "Ihr Rekord für den {modality} lautet:",
+  "@yourRecord": {
+    "placeholders": {
+      "modality": {
+        "type": "String"
+      }
+    }
+  },
+  "easy": "Einfach",
+  "medium": "Mittel",
+  "bombs": "Bomben",
+  "statistics": "Statistiken",
+  "leaderboard": "Bestenliste",
+  "purchase": "Kaufen",
+  "developBy": "Entwickelt von",
+  "win": "Gewinnen",
+  "lose": "Verlieren",
+  "gameStatistics": "Spielstatistiken",
+  "alreadyProGamer": "Sie sind bereits ein Pro Gamer und werden nie wieder Werbung sehen!",
+  "purchasePageTitle": "Kaufen",
+  "tutorial1StartGameTitle": "Spiel starten",
+  "tutorial1StartGameDescr": "Klicken Sie auf ein beliebiges Feld, um das Spiel zu starten. Ein lösbares Spielfeld wird erstellt.",
+  "tutorial2FindBombsTitle": "Bomben finden",
+  "tutorial2FindBombsDescr": "Die Zahlen zeigen an, wie viele Bomben in den angrenzenden Zellen vorhanden sind. Zum Beispiel zeigt die Zahl 3 an, dass sich drei Bomben um die Zelle herum befinden.",
+  "tutorial3FlagsTitle": "Bomben markieren",
+  "tutorial3FlagsDescr": "Halten Sie eine Zelle lange gedrückt, um eine Flagge einzufügen, die Ihnen dabei helfen kann, sich zu merken, wo sich eine Bombe befinden könnte.",
+  "tutorial4WinTitle": "Sieg",
+  "tutorial4WinDescr": "Sie gewinnen, wenn Sie alle Bomben abdecken und alle Felder frei machen.",
+  "tutorial5WorldRankingTitle": "Weltbestenliste",
+  "tutorial5WorldRankingDescr": "Versuchen Sie, das Feld so schnell wie möglich zu lösen, um auf der Weltbestenliste aufzusteigen, die Sie auf der Startseite finden!",
+  "tutorial6DoubleClickTitle": "Schnelles Öffnen",
+  "tutorial6DoubleClickDescr": "Klicken Sie auf eine aufgedeckte Zelle, in der Sie bereits alle Flaggen um sie herum platziert haben, um alle benachbarten freien Zellen zu öffnen!",
+  "next": "Nächste",
+  "play": "Spielen",
+  "time": "Zeit",
+  "gamePauseTitle": "Spiel angehalten",
+  "gamePauseDescr": "Tippen Sie außerhalb des Spiels, um fortzufahren oder zur Startseite zu gehen.",
+  "youLoseTitle": "Sie haben verloren!",
+  "youLoseDesc": "Verpassen Sie bei einer Niederlage nicht die Lektion.",
+  "youCompletedGameTitle": "Gewonnen, herzlichen Glückwunsch!",
+  "youCompletedGameDescr": "Sie haben das Spiel in folgender Zeit abgeschlossen:",
+  "seconds": "Sekunden",
+  "minuts": "Minuten",
+  "hours": "Stunden",
+  "home": "Startseite",
+  "loadingOffers": "Lade Angebote ...",
+  "goodPurchase": "Kauf erfolgreich abgeschlossen!",
+  "badPurchase": "Kauf abgeschlossen mit Fehler.",
+  "restorePurchaseDone": "Kauf wiederherstellen abgeschlossen.",
+  "noPlansFound": "Keine Angebote gefunden!",
+  "loading": "Ladevorgang",
+  "restore": "Wiederherstellen",
+  "timeRecord": "Zeitrekord!",
+  "info_openSourceText": "Der Quellcode dieses Spiels ist Open Source und Sie finden ihn auf GitHub",
+  "review": "Rezension",
+  "info_reviewText": "Wir würden uns sehr über eine Rezension von Ihnen freuen, um uns zu verbessern und zu wachsen.",
+  "contactUs": "Kontaktiere uns",
+  "info_contactUsText": "Haben Sie Vorschläge für eine neue Funktion oder möchten Sie einen Fehler melden? Schreiben Sie uns, wir werden uns freuen, zu antworten.",
+  "settings": "Einstellungen",
+  "settings_languageText": "Sprache"
+}

@@ -1,0 +1,70 @@
+{
+  "language": "Polski",
+  "@language": {
+    "description": "Aktualny język"
+  },
+  "hard": "Trudny",
+  "@hard": {
+    "description": "Poziom trudności - trudny"
+  },
+  "yourRecord": "Twój rekord dla trybu {modality} wynosi:",
+  "@yourRecord": {
+    "placeholders": {
+      "modality": {
+        "type": "String"
+      }
+    }
+  },
+  "easy": "Łatwy",
+  "medium": "Średni",
+  "bombs": "Bomby",
+  "statistics": "Statystyki",
+  "leaderboard": "Ranking",
+  "purchase": "Kup",
+  "developBy": "Rozwój przez",
+  "win": "Wygrać",
+  "lose": "Przegrać",
+  "gameStatistics": "Statystyki gry",
+  "alreadyProGamer": "Jesteś już profesjonalnym graczem i nigdy więcej nie zobaczysz reklam!",
+  "purchasePageTitle": "Kup",
+  "tutorial1StartGameTitle": "Rozpocznij grę",
+  "tutorial1StartGameDescr": "Kliknij dowolne pole, aby rozpocząć grę. Zostanie utworzone rozwiązywalne pole gry.",
+  "tutorial2FindBombsTitle": "Znajdź bomby",
+  "tutorial2FindBombsDescr": "Liczby pokazują, ile bomb znajduje się w sąsiednich komórkach. Na przykład liczba 3 oznacza, że wokół komórki znajdują się trzy bomby.",
+  "tutorial3FlagsTitle": "Oznacz bomby",
+  "tutorial3FlagsDescr": "Przytrzymaj dłużej komórkę, aby umieścić flagę, która pomoże Ci zapamiętać, gdzie możesz znaleźć bombę.",
+  "tutorial4WinTitle": "Zwycięstwo",
+  "tutorial4WinDescr": "Wygrywasz, gdy odkryjesz wszystkie bomby i odkryjesz wszystkie pola.",
+  "tutorial5WorldRankingTitle": "Globalny ranking",
+  "tutorial5WorldRankingDescr": "Spróbuj rozwiązać pole gry jak najszybciej, aby awansować na globalnej liście rankingowej, którą znajdziesz na stronie startowej!",
+  "tutorial6DoubleClickTitle": "Szybkie otwieranie",
+  "tutorial6DoubleClickDescr": "Kliknij dwukrotnie odkryte pole, w którym już umieściłeś wszystkie flagi wokół niego, aby otworzyć wszystkie wolne komórki w sąsiedztwie!",
+  "next": "Następny",
+  "play": "Graj",
+  "time": "Czas",
+  "gamePauseTitle": "Gra wstrzymana",
+  "gamePauseDescr": "Kliknij poza grą, aby kontynuować lub przejdź do strony startowej.",
+  "youLoseTitle": "Przegrałeś!",
+  "youLoseDesc": "Nie przegap lekcji po porażce.",
+  "youCompletedGameTitle": "Wygrana, gratulacje!",
+  "youCompletedGameDescr": "Udało Ci się ukończyć grę w następującym czasie:",
+  "seconds": "Sekundy",
+  "minuts": "Minuty",
+  "hours": "Godziny",
+  "home": "Dom",
+  "loadingOffers": "Ładowanie ofert ...",
+  "goodPurchase": "Kupno zakończone sukcesem!",
+  "badPurchase": "Kupno zakończone błędem.",
+  "restorePurchaseDone": "Przywrócono zakup.",
+  "noPlansFound": "Nie znaleziono ofert!",
+  "loading": "Ładuję",
+  "restore": "Przywróć",
+  "timeRecord": "Rekord czasowy!",
+  "info_openSourceText": "Kod źródłowy tej gry jest dostępny w otwartym dostępie na GitHubie",
+  "review": "Recenzja",
+  "info_reviewText": "Bardzo chcielibyśmy otrzymać recenzję od Ciebie, abyśmy mogli się poprawić i rosnąć.",
+  "contactUs": "Skontaktuj się z nami",
+  "info_contactUsText": "Masz sugestie dotyczące nowej funkcji lub chcesz zgłosić błąd? Napisz do nas, chętnie Ci odpowiemy.",
+  "settings": "Ustawienia",
+  "settings_languageText": "Język"
+}
